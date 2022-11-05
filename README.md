@@ -113,7 +113,7 @@ Code: <a href="https://github.com/prashant-smart/recommendation-system-notebook/
 
 ##### Clone the project 
   ```
-  git clone https://github.com/prashant-smart/Recommendation-system.git
+  git clone https://github.com/siabang35/recomSystem.git
 
   ```
 
