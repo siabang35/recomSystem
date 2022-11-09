@@ -1,5 +1,5 @@
 NAVBAR_PATHS = {
-    'HOME':'PMBD',
+    'HOME':'GOLDFARB5',
     'HOME':'home',
     'ABOUT': 'about',
 }
