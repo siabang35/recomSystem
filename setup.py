@@ -5,7 +5,7 @@ from views import home,about
 
 
 # set title of webpage
-st.set_page_config(layout="wide", page_title='PMBD')
+st.set_page_config(layout="wide", page_title='GOLDFARB5')
 
 # function for handle navigation 
 def navigation():
