@@ -28,7 +28,7 @@ def navbar_component():
     component = rf'''
             <nav class="container navbar" id="navbar">
                 <ul class="navlist">
-                <a class="navitem" id="logo" href="#">PMBD</a>
+                <a class="navitem" id="logo" href="#">GOLDFARB5</a>
                 {navbar_items}
                 </ul>
             </nav>
