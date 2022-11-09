@@ -49,7 +49,7 @@ def make_hashes(password):
 def authenticate():
 		signup_titl_block=st.sidebar.empty()
 
-		signup_titl_block.title("PMBD")
+		signup_titl_block.title("GOLDFARB5")
 
 		# check wheater whether user credentials are already saved in localStoragePy or not (if credentials is saved then it means user already logged in)
 		username =localStorage.getItem('username')
@@ -62,7 +62,7 @@ def authenticate():
 			handle_login_and_logout(username)
 			return    
 		else:
-			welcome_text_block.title("welcome To PMBD")
+			welcome_text_block.title("welcome To Goldfarb-5")
 			login_signup_image_block.image('./assets/images/login_signup_page_image.png')
 
 			menu=["Login","SignUp"]
