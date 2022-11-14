@@ -18,7 +18,7 @@ Demonstrate the use of Recommendation System :
 
 
 
-<img src="./assets/images/homepage.png">
+<img src="./assets/images/gopal-movie1.png">
 
 
 First of all you need to **SIGN UP** in the page using ( You can use any username and password for login ):- 
