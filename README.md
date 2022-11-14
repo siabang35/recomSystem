@@ -23,7 +23,7 @@ Demonstrate the use of Recommendation System :
 
 First of all you need to **SIGN UP** in the page using ( You can use any username and password for login ):- 
   
-   <img src="./assets/images/sign_up_page.png">
+   <img src="./assets/images/login.png">
    
   
   
@@ -46,7 +46,7 @@ In this, a user can select the number of recommendations they want related to a 
 
 #### Result with poster
 
-<img src="./assets/images/search_result.png">
+<img src="./assets/images/movie.png">
 
 #### Result without poster
 
@@ -78,7 +78,7 @@ Bag of Words uses the same technique as TF-IDF, but the score is calculated base
 
 In this algorithm, a user rating for a specific movie is calculated on the basis of how other user rate same movie, and by taking some real time rartings, we can show recommendations to users.
 
-<img src="./assets/images/item-item collaborative filtering.png">
+<img src="./assets/images/movie-collaborative.png">
 
 
 ### Section A.4: K Nearest Neighbor (Item Based)
@@ -94,7 +94,7 @@ Users can also get recommendations on the basis of a person who has appeared in 
 
 First, all movies in which that person is cast as an actor or director are sorted in reverse order according to the average rating and if the number of recommendations is greater than that person's movies, then the user gets recommendation on the basis of the first movie which is going to be recommended first to the user.
 
-<img src="./assets/images/person_based_filtering_homepage.png">
+<img src="./assets/images/artist-movies.png">
 
 
 
@@ -105,7 +105,7 @@ This recommendation is based on those movies which have the same genres as selec
 
 Code: <a href="https://github.com/prashant-smart/recommendation-system-notebook/blob/main/generes_based_search.ipynb">Generes Based Search.ipynb</a>
 
-<img src="./assets/images/genres based filtering home page.png">
+<img src="./assets/images/genre-movies.png">
 
 # Installation
 
