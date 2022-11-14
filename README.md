@@ -103,7 +103,7 @@ First, all movies in which that person is cast as an actor or director are sorte
 
 This recommendation is based on those movies which have the same genres as selected by the user and then sorted in reverse order according to average ratings of each movie.
 
-Code: <a href="https://github.com/prashant-smart/recommendation-system-notebook/blob/main/generes_based_search.ipynb">Generes Based Search.ipynb</a>
+Code: <a href="https://github.com/siabang35/Movies-notebook/blob/master/genres_based_search.ipynb">Generes Based Search.ipynb</a>
 
 <img src="./assets/images/genre-movies.png">
 
