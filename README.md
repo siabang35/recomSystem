@@ -117,13 +117,11 @@ Code: <a href="https://github.com/prashant-smart/recommendation-system-notebook/
 
   ```
 
-  <img src="./assets/images/clone_statment.png">
+ 
 
 after cloning the project get into main directory
 
-  `cd .\Recommendation-system\`
-
-  <img src="./assets/images/main_directory.png">
+  
 
 
  ⚠️ Make sure pip is already installed otherwise check out https://pip.pypa.io/en/stable/installation/
@@ -135,7 +133,6 @@ now install all library
 
 `pip install -r requirements.txt`
 
-<img src="./assets/images/Requirements_txt.png">
 
 
 
@@ -145,7 +142,7 @@ To open webapp on your local machine
 
 `streamlit run main.py`
 
-<img src="./assets/images/streamlit_run_command.png">
+
 
 --------------------
 # Hope You Like the Project ❤️❤️❤️
